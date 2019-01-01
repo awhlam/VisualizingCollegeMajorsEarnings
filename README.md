@@ -9,7 +9,7 @@ Jupyter Notebook in Python for visualizing data set of salaries by college major
 
 Job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by [American Community Survey](https://www.census.gov/programs-surveys/acs/), which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on their [Github repo](https://github.com/fivethirtyeight/data/tree/master/college-majors).
 
-Column Definitions 
+## Column Definitions:
 * Rank - Rank by median earnings (the dataset is ordered by this column).
 * Major_code - Major code.
 * Major - Major description.

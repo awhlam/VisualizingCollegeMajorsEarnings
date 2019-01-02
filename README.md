@@ -4,7 +4,7 @@ Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visua
 ## Release History
 * 12/31/18 - Version 1.0 - Initial release
 
-## Data Sets Used
+## Data Set
 
 Job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by [American Community Survey](https://www.census.gov/programs-surveys/acs/), which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on their [Github repo](https://github.com/fivethirtyeight/data/tree/master/college-majors).
 

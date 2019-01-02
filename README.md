@@ -1,9 +1,8 @@
 # VisualizingCollegeMajorsEarnings
-Jupyter Notebook in Python for visualizing data set of salaries by college majors as part of Dataquest's [guided project](https://www.dataquest.io/course/exploratory-data-visualization).
+Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visualizing data set of salaries by college majors as part of [Dataquest's exploratory data visualization guided project](https://www.dataquest.io/course/exploratory-data-visualization).
 
 ## Release History
-
-12/31/18 - Version 1.0 - Initial release
+* 12/31/18 - Version 1.0 - Initial release
 
 ## Data Sets Used
 
@@ -24,3 +23,6 @@ Job outcomes of students who graduated from college between 2010 and 2012. The o
 * Low_wage_jobs - Number in low-wage service jobs.
 * Full_time - Number employed 35 hours or more.
 * Part_time - Number employed less than 35 hours.
+
+## License
+[MIT License](https://opensource.org/licenses/MIT)

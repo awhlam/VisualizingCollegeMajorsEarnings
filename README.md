@@ -1,4 +1,4 @@
-# VisualizingCollegeMajorsEarnings
+# Visualizing Earnings Based on College Majors
 Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visualizing data set of salaries by college majors as part of [Dataquest's exploratory data visualization guided project](https://www.dataquest.io/course/exploratory-data-visualization).
 
 ## Release History
